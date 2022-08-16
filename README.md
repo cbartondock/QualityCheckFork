@@ -13,4 +13,5 @@ This isn't necessary if you are only working with windows, but if you would like
 The operation is idempotent, that is to say running it again will leave the library unchanged if no new files have been added.
 
 ⚠️⚠️ This operation is one way!
+
 ⚠️⚠️ We are changing file paths here. Use at your own risk, back up your library first.
